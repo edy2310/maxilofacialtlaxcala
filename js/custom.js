@@ -750,7 +750,7 @@ Project:	Health Care HTML Template
 
 	// Load Event
 	$(window).on('load', function() {
-		healthcare.Preloader();
+		//healthcare.Preloader();
 	});
 
 	// Scroll Event
@@ -760,7 +760,7 @@ Project:	Health Care HTML Template
 	
 	// ready function
 	$(document).ready(function() {
-		
+		healthcare.Preloader();
 	});
 	
 
